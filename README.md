@@ -47,7 +47,7 @@ Logra una convergencia mucho más rápida y una reducción significativa del los
 Los modelos se evalúan sobre el conjunto de prueba (test):
 
 
-# Optimizador   	    Loss    	Accuracy
+# Optimizador   	 Loss    	Accuracy
     SGD	            ≈ 0.22	   ≈ 93.6%
     Adam          	≈ 0.10	   ≈ 97.3%
 Además, se grafica la evolución del loss por época, donde Adam muestra una caída más rápida y estable en comparación con SGD.
